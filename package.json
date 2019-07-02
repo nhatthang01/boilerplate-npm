@@ -14,5 +14,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "nguyen-thang"
+	"author": "nguyen-thang",
+	"description": "Manage Package with Npm"
 }
