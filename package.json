@@ -20,7 +20,6 @@
 	"license": "MIT",
 	"version": "1.0",
 	"dependencies": {
-		"package-name": "version",
 		"moment": "2.14.0"
 	}
 }
