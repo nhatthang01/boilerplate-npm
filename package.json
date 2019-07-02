@@ -21,6 +21,6 @@
 	"version": "1.0",
 	"dependencies": {
 		"package-name": "version",
-		"express": "2.14.0"
+		"moment": "2.14.0"
 	}
 }
