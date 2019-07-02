@@ -17,5 +17,6 @@
 	"author": "nguyen-thang",
 	"description": "Manage Package with Npm",
 	"keywords": ["npm", "freecodecamp"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0"
 }
