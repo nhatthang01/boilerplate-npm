@@ -18,5 +18,9 @@
 	"description": "Manage Package with Npm",
 	"keywords": ["npm", "freecodecamp"],
 	"license": "MIT",
-	"version": "1.0"
+	"version": "1.0",
+	"dependencies": {
+		"package-name": "version",
+		"express": "2.14.0"
+	}
 }
