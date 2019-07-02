@@ -15,5 +15,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "nguyen-thang",
-	"description": "Manage Package with Npm"
+	"description": "Manage Package with Npm",
+	"keywords": ["npm", "freecodecamp"]
 }
