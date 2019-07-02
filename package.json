@@ -20,6 +20,5 @@
 	"license": "MIT",
 	"version": "1.0",
 	"dependencies": {
-		"moment": "^2.10.2"
 	}
 }
